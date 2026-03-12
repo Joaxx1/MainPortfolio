@@ -1,0 +1,82 @@
+================================================================================
+                        CURRICULUM VITAE
+================================================================================
+
+JOAQUIN PAUL C. JUANICO
+Full-Stack Developer
+
+Phone   : 09178592707
+Email   : joaxjuanico026@gmail.com
+GitHub  : https://github.com/Joaxx1
+
+--------------------------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------------------------
+
+  Programming wasn't always my path. It wasn't until a teacher at CIIT sparked
+  a genuine interest in me that I decided to take it seriously and pick it back
+  up. Since then I've been fully committed — teaching myself full-stack
+  development, building real projects, and pushing my skills further every day.
+  My next goal is to dive deep into AI and machine learning, with the ambition
+  of eventually knowing the full landscape of modern software development.
+
+--------------------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------------------
+
+Junior High School
+  Marist School
+  2019 – 2022
+
+Senior High School
+  CIIT College of Arts and Technology
+  2023 – 2025
+
+--------------------------------------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+
+Languages & Frameworks
+  - JavaScript / TypeScript
+  - React, React Native
+  - Next.js
+  - Node.js
+  - Python
+
+Styling & UI
+  - Tailwind CSS
+  - CSS / Framer Motion
+
+Databases & Backend
+  - Supabase
+  - PostgreSQL
+  - MongoDB
+  - Redis
+  - GraphQL
+
+Tools & Platforms
+  - Git / GitHub
+
+--------------------------------------------------------------------------------
+SOFT SKILLS
+--------------------------------------------------------------------------------
+
+  - Strong attention to detail and commitment to quality
+  - Fast learner with ability to adapt to new technologies quickly
+  - Problem-solving mindset with a focus on clean, efficient solutions
+  - Ability to work independently and manage projects end-to-end
+  - Clear and concise communication
+  - Creative thinking applied to UI/UX design decisions
+  - Time management and ability to deliver under tight deadlines
+
+--------------------------------------------------------------------------------
+PROJECTS
+--------------------------------------------------------------------------------
+
+Galerie Jose  |  Full Stack  |  2025
+  Full-stack website for an art gallery — curated collection display, artist
+  pages, and an admin panel backed by Supabase for real-time inventory
+  management.
+  Stack: React, CSS, Node.js, Supabase
+
+================================================================================
