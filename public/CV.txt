@@ -73,10 +73,15 @@ SOFT SKILLS
 PROJECTS
 --------------------------------------------------------------------------------
 
-Galerie Jose  |  Full Stack  |  2025
+Galerie Jose  |  Full Stack  |  2026
   Full-stack website for an art gallery — curated collection display, artist
   pages, and an admin panel backed by Supabase for real-time inventory
   management.
   Stack: React, CSS, Node.js, Supabase
+
+POS System  |  Full Stack  |  2026  |  In Progress
+  A gallery point-of-sale system with inventory management, sales tracking,
+  and staff PIN authentication.
+  Stack: React, TypeScript, Zustand, React Router, Tailwind CSS v4, Vite
 
 ================================================================================
